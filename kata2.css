@@ -1,20 +1,10 @@
+*{margin: 0;
+padding: 0;}
 
-
-.contenaire {background-color: slategray;
-            width: 200px;
-            height: 200px;
-            left: 50px;
-            top : 50px;
-            margin-left: 80px;
-            margin-block-start: 80px;
-            display: inline-flex;}
-            
-
-.carre2 {background-color: slategray;
+.contenaire {display: inline-flex;}
+        
+.carre1, .carre2 {background-color: slategray;
     width: 200px;
     height: 200px;
-    left: 50px;
-    top : 50px;
     margin-left: 80px;
-    margin-block-start: 80px;
-    display: inline-flex;}
+    margin-block-start: 80px;}
