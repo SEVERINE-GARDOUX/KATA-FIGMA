@@ -2,10 +2,10 @@
 padding: 0;}
            
 .contenair {display: grid;
-            gap : 80px;
+            gap : 100px;
             grid-template-columns: 20% 20% 20%;
-            margin-block-start: 80px;
-            margin-left: 80px;}
+            margin-block-start: 5%;
+            margin-left: 15%;}
 
 .carre1 {background-color: #D03636;;
     width: 300px;
