@@ -2,7 +2,7 @@
   padding: 0;}
      
 .contenair {display: grid;
-            gap : 80px;
+            row-gap : 80px;
             grid-template-columns: 20% 20% 20%;
             margin-block-start: 80px;
             margin-left: 80px;}
